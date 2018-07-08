@@ -8,9 +8,9 @@ Make sure you downloaded and extracted [Spotiload](https://bitbucket.org/OlgahWo
 
 ## Installing
 
-To download newly created/edited playlists, place *run.bat* and *downloader.bat* in the **bin** directory (same directory as *spotiload.exe*).
-Right click *downloader.bat* and click edit. Replace [USERNAME] and [PASSWORD] with your Spotify login credentials. Save and close.
-Create a new text file named *playlist.txt* in the same directory.
+* Place *run.bat* and *downloader.bat* in the **bin** directory (same directory as *spotiload.exe*).
+* Right click *downloader.bat* and click edit. Replace [USERNAME] and [PASSWORD] with your Spotify login credentials. Save and close.
+* Create a new text file named *playlist.txt* in the same directory.
 
 ## Running
 
