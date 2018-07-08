@@ -1,0 +1,1 @@
+Copy contents of playlist by selecting all tracks inside and copy the URIs
