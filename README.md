@@ -11,7 +11,7 @@ Make sure you downloaded and extracted [Spotiload](https://bitbucket.org/OlgahWo
 * Place *run.bat* and *downloader.bat* in the **bin** directory (same directory as *spotiload.exe*)
 * Right click *downloader.bat* and click edit. Replace [USERNAME] and [PASSWORD] with your Spotify login credentials. If needed, change the name/location of your Spotify app key. Save and close
 * Create a new text file named *playlist.txt* in the same directory and leave it empty
-* Right click *open.bat* and click edit. Fill in your full path to *downloader.bat*. Save and close
+* Right click *run.bat* and click edit. Fill in your full path to *downloader.bat*. Save and close
 
 ## Running
 
