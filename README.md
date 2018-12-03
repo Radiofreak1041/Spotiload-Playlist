@@ -23,7 +23,7 @@ Make sure you downloaded and extracted [Spotiload](https://bitbucket.org/OlgahWo
 
 ## Result
 
-* All tracks will be downloaded to the **bin** directory. I suggest cleaning up all mp3 files in that directory so it doesn't get a mess.
+* All tracks will be downloaded to the **bin** directory. I suggest cleaning up all mp3 files in that directory so it won't get a mess.
 
 ### Acknowledgments
 
